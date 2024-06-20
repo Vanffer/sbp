@@ -10,6 +10,7 @@ spring:
     url: "jdbc:postgresql://localhost/sbp"
     username: postgres
     driver-class-name: "org.postgresql.Driver"
+    password: vanffer
   sbp:
     runtime-mode: development
     enabled: true
